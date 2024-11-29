@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio 2022\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\KZ2.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4151D7D-BA31-4675-B65C-D2C213A77DEF}|KZ2.4\\KZ2.4.csproj|d:\\visual studio 2022\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\kz2.4\\kz2.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4151D7D-BA31-4675-B65C-D2C213A77DEF}|KZ2.4\\KZ2.4.csproj|solutionrelative:kz2.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\KZ2.4\\KZ2.4\\Program.cs",
+              "RelativeDocumentMoniker": "KZ2.4\\Program.cs",
+              "ToolTip": "D:\\Visual Studio 2022\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\KZ2.4\\KZ2.4\\Program.cs",
+              "RelativeToolTip": "KZ2.4\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:35:32.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

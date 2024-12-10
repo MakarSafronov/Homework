@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "XHUjwdv7i6M=",
+  "success": false,
+  "projectFilePath": "D:\\Visual Studio 2022\\Домашние задания\\KZ7.1\\Test\\Test.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Не удалось скачать пакет \"Microsoft.CodeCoverage.17.8.0\" из \"https://api.nuget.org/v3-flatcontainer/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg\".\r\nНедостаточно места на диске."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Пакет \"Microsoft.CodeCoverage.17.8.0\" указан в веб-канале \"nuget.org [https://api.nuget.org/v3/index.json]\", но после нескольких попыток не удалось скачать файл NUPKG. Указан недопустимый веб-канал либо необходимые пакеты были удалены во время выполнения текущей операции. Убедитесь, что пакет существует в веб-канале и повторите попытку."
+    }
+  ]
+}

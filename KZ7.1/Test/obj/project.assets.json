@@ -1,0 +1,118 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Microsoft.NET.Test.Sdk >= 17.8.0",
+      "Microsoft.Playwright.NUnit >= 1.27.1",
+      "NUnit >= 3.14.0",
+      "NUnit.Analyzers >= 3.9.0",
+      "NUnit3TestAdapter >= 4.5.0",
+      "coverlet.collector >= 6.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\makar\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Visual Studio 2022\\Домашние задания\\KZ7.1\\Test\\Test.csproj",
+      "projectName": "Test",
+      "projectPath": "D:\\Visual Studio 2022\\Домашние задания\\KZ7.1\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\makar\\.nuget\\packages\\",
+      "outputPath": "D:\\Visual Studio 2022\\Домашние задания\\KZ7.1\\Test\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\makar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Microsoft.NET.Test.Sdk": {
+            "target": "Package",
+            "version": "[17.8.0, )"
+          },
+          "Microsoft.Playwright.NUnit": {
+            "target": "Package",
+            "version": "[1.27.1, )"
+          },
+          "NUnit": {
+            "target": "Package",
+            "version": "[3.14.0, )"
+          },
+          "NUnit.Analyzers": {
+            "target": "Package",
+            "version": "[3.9.0, )"
+          },
+          "NUnit3TestAdapter": {
+            "target": "Package",
+            "version": "[4.5.0, )"
+          },
+          "coverlet.collector": {
+            "target": "Package",
+            "version": "[6.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Не удалось скачать пакет \"Microsoft.CodeCoverage.17.8.0\" из \"https://api.nuget.org/v3-flatcontainer/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg\".\r\nНедостаточно места на диске."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Пакет \"Microsoft.CodeCoverage.17.8.0\" указан в веб-канале \"nuget.org [https://api.nuget.org/v3/index.json]\", но после нескольких попыток не удалось скачать файл NUPKG. Указан недопустимый веб-канал либо необходимые пакеты были удалены во время выполнения текущей операции. Убедитесь, что пакет существует в веб-канале и повторите попытку."
+    }
+  ]
+}
